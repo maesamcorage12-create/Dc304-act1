@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="p-8">
       <h1 className="text-3xl font-bold">
-        Hello, my name is Kent Jhuros B Manatad
+        Hello, my name is Sam Corage
       </h1>
       <p className="mt-2">
         I am a student learning web development with Next.js. I enjoy building projects and exploring new technologies.
